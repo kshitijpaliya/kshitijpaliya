@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitij Paliya</h1>
 <h3 align="center">A passionate tech enthusiast from Ahmednagar, Maharashtra! I am a 3rd Year Undergrad student pursuing BTech at Manipal Institute of Technology, Manipal!</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 Building Skills in **Full Stack Development and AWS**
 
 - 📫 How to reach me **kshitij.paliya1@gmail.com**
 
