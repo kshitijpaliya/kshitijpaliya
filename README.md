@@ -2,8 +2,7 @@
 <h3 align="center">Full Stack Developer | Cloud Enthusiast | React & AWS</h3>
 
 
-🎓 I'm a 3rd-year BTech student at **Manipal Institute of Technology**, pursuing **Information Technology**.  
-🌍 Based in **Ahmednagar, Maharashtra**, with a passion for building practical, impactful tech products.
+🎓 I'm a 3rd-year BTech student at **Manipal Institute of Technology**, pursuing **Information Technology**. Based in **Ahmednagar, Maharashtra**, with a passion for building practical, impactful tech products.
 
 
 - 🚀 Currently diving deep into **Full Stack Development**, **AWS Cloud**, and **DevOps**
