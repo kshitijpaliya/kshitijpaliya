@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kshitij Paliya</h1>
 <h3 align="center">Full Stack Developer | Cloud Enthusiast | React & AWS</h3>
-
+<br>
 🎓 I'm a 3rd-year BTech student at **Manipal Institute of Technology**, pursuing **Information Technology**.  
 🌍 Based in **Ahmednagar, Maharashtra**, with a passion for building practical, impactful tech products.
-
+<br>
 - 🚀 Currently diving deep into **Full Stack Development**, **AWS Cloud**, and **DevOps**
 - 🛠️ Skilled with **React.js**, **Next.js**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **Firebase**, **AWS**, etc
 - 👨‍💻 Interned at **ChipIOT Embedded Solutions**, working on AWS IoT Core, Lambda, and DynamoDB
