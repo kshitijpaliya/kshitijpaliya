@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitij Paliya</h1>
-<h3 align="center">Tech Explorer | Full Stack Developer | Cloud & IoT Enthusiast </h3>
-
-🎓 I'm a 3rd-year BTech student at **Manipal Institute of Technology**, majoring in Computer Science.  
-🌍 Based in **Ahmednagar, Maharashtra**, with a deep passion for building impactful tech solutions.
-<h1 align="center">Hi 👋, I'm Kshitij Paliya</h1>
-<h3 align="center">Full Stack Developer | Cloud Enthusiast | React & AWS Explorer</h3>
+<h3 align="center">Full Stack Developer | Cloud Enthusiast | React & AWS</h3>
 
 🎓 I'm a 3rd-year BTech student at **Manipal Institute of Technology**, pursuing **Information Technology**.  
 🌍 Based in **Ahmednagar, Maharashtra**, with a passion for building practical, impactful tech products.
