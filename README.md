@@ -9,7 +9,7 @@
 - 🛠️ Skilled with **React.js**, **Next.js**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **Firebase**, **AWS**, etc
 - 👨‍💻 Interned at **ChipIOT Embedded Solutions**, working on AWS IoT Core, Lambda, and DynamoDB
 - 📫 Reach me at: **kshitij.paliya1@gmail.com**
-- 🌐 Portfolio: [kshitijpaliya.vercel.app](https://kshitijpaliya.vercel.app)
+- 🌐 Portfolio: [kshitijpaliya.vercel.app](https://kshitijpaliya.fun)
 
 ---
 
