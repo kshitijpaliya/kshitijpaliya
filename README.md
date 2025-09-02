@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitij Paliya</h1>
 <h3 align="center">Full Stack Developer & Cloud Enthusiast</h3>
 
-🎓 Final year **B.Tech IT student** at **Manipal Institute of Technology**  
+🎓 Final year **B.Tech IT student** at **Manipal Institute of Technology, Manipal**  
 💡 Passionate about building scalable full-stack applications and exploring **Cloud and DevOps**  
 
 ---
