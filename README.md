@@ -7,7 +7,7 @@
 ---
 
 - 🚀 Currently focusing on **Full Stack Development**, **AWS Cloud**, and **DevOps**
-- 🛠️ Tech stack: **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, **AWS**
+- 🛠️ Tech stack: **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **TailwindCSS**, **Javascript**, **Typescript**, **PostgreSQL**, **AWS**, **Vercel**
 - 🔗 Portfolio: [kshitijpaliya.fun](https://kshitijpaliya.fun)
 - 📫 Email: **kshitij.paliya1@gmail.com**
 
@@ -47,6 +47,7 @@
   <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
 </p>
+
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
